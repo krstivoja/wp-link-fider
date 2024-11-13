@@ -1,6 +1,6 @@
 # wp-link-fider
 
-I have created this plugin for internal (https://dplugins.com/)[DPlugins] purposes.
+I have created this plugin for internal [DPlugins](https://dplugins.com/) purposes.
 
 We have needed plugin that will find all posts links with an option to replace those links for 301 redirects. 
 Plugin also comes with 2 buttons to copy entire table and also to download csv file
